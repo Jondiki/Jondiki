@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Jondiki/Jondiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +15,12 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm John Doe 👋
+### Hi there, I'm Jonathan Diki 👋
 
 I work primarily with:
 
-- *Languages*: Python, JavaScript, TypeScript
-- *Frameworks*: Django, React, Express
+- *Languages*:  JavaScript, TypeScript
+- *Frameworks*: Angular, React, Express
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
