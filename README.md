@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there, I'm John Doe 👋
+
+I work primarily with:
+
+- *Languages*: Python, JavaScript, TypeScript
+- *Frameworks*: Django, React, Express
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
